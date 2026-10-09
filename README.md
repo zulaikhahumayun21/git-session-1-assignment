@@ -9,3 +9,9 @@ This project demonstrates basic Git version control workflows, branching, and Gi
 - GitHub
 - Markdown
 - HTML / CSS / JS
+
+## Learning Goals
+- Initialize and configure local repositories.
+- Manage ignore patterns for sensitive environment and log files.
+- Work with branches and isolate feature development.
+- Synchronize commits with a remote GitHub repository.
