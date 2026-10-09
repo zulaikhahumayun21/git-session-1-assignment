@@ -15,3 +15,5 @@ This project demonstrates basic Git version control workflows, branching, and Gi
 - Manage ignore patterns for sensitive environment and log files.
 - Work with branches and isolate feature development.
 - Synchronize commits with a remote GitHub repository.
+
+Updated directly on GitHub.
